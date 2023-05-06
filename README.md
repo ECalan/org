@@ -1,3 +1,10 @@
+# Personas y equipos, organizados en un solo lugar.
+## Desarrollado por Eddy Calan en clase impartida en Alura Latam. 
+
+<p align="center" >
+     <img width="600" heigth="600" src="https://raw.githubusercontent.com/ECalan/org/master/public/img/portada.jpg">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
