@@ -15,3 +15,13 @@
 .redes img{
     padding: 0px 15px;
 }
+
+
+/*Mobile*/
+@media screen and (max-width: 412px){
+
+.footer{
+    justify-content: space-evenly;
+}
+
+}

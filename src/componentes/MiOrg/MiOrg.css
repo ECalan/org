@@ -18,3 +18,26 @@
     right: 30%;
     cursor: pointer;
 }
+
+/*Tablet*/
+@media screen and (max-width: 768px){
+
+    .orgSection{
+        justify-content: space-evenly;
+    }
+
+    .orgSection img{
+        position: relative;
+        right: 0;
+    }
+    
+}
+
+/*Mobile*/
+@media screen and (max-width: 412px){
+
+    .orgSection{
+        flex-direction: column;
+    }
+
+}

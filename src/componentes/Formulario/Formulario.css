@@ -19,3 +19,13 @@
     font-weight: 400;
     color: #212121;
 }
+
+
+/*Mobile*/
+@media screen and (max-width: 412px){
+
+.formulario form{
+    padding: 8px 70px;
+}
+
+}
