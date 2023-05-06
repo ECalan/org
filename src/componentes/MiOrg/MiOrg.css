@@ -34,7 +34,7 @@
 }
 
 /*Mobile*/
-@media screen and (max-width: 412px){
+@media screen and (max-width: 414px){
 
     .orgSection{
         flex-direction: column;
